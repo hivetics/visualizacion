@@ -1,0 +1,19 @@
+{
+  "visualizations": [
+    {
+      "id": "radar_chart",
+      "label": "Radar Chart",
+      "file": "looker_radar_chart.js",
+      "options": {
+        "dimensions": {
+          "type": "array",
+          "label": "Dimensions"
+        },
+        "metrics": {
+          "type": "array",
+          "label": "Metrics"
+        }
+      }
+    }
+  ]
+}
